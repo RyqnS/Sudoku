@@ -18,5 +18,4 @@ forces users to think on their toes rather than mowing along slowly with all the
 infinite time in the world we never had, and a punishment for thinking too slow?
 
 Nightmare mode is accessible on the main menu exclusively through the keyboard,
-although it can be played with the mouse after being selected. Due to time
- constraints, sound has not been implemented.
+although it can be played with the mouse after being selected.
